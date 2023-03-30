@@ -1,15 +1,10 @@
 
-/* Your CSS Code here. 
+/* Your CSS Code here. */
 .container{
 	width: 200px;
 	background-color: purple;
-	left-side border-color: green;
+    border-left-color: solid green;
+	text-decoration-line: underline;
 	padding: 10px;
 	font-size: 20px;
-}
-h1{
 	color: white;
-}
-	
-	
-}
